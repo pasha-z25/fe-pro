@@ -1,0 +1,31 @@
+{
+  "name": "hillel-home-work",
+  "version": "1.0.0",
+  "description": "Make your code great",
+  "scripts": {
+    "lint": "eslint ./",
+    "prettier": "prettier --write src/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasha-z25/fe-pro.git"
+  },
+  "keywords": [
+    "hillel",
+    "javacript",
+    "front-end",
+    "home-work"
+  ],
+  "author": "Zubak Pavlo <pashazubak@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasha-z25/fe-pro/issues"
+  },
+  "homepage": "https://github.com/pasha-z25/fe-pro#readme",
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.1.0",
+    "prettier": "^2.8.1"
+  }
+}
